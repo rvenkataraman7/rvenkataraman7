@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramav245
 - 👀 I’m interested in ai and data science
 - 🌱 I’m currently learning data analytics.
-- 💞️ I’m looking to collaborate on any robotics type project
+- 💞️ I’m looking to collaborate on any gaming project
 - 📫 text me at 408-834-5688.
 
 <!---
