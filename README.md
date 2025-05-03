@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ramav245
+- 👋 Hi, I’m @Rvenkataraman7
 - 👀 I’m looking to make the design space better.
 - 🌱 I’m recently completed the google data analytics certificate.
 - 💞️ I’m looking to collaborate on any web dev, UI project, or gaming project.
